@@ -1,0 +1,62 @@
+<html>
+<link rel="stylesheet" href="style.css">
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap" rel="stylesheet">
+
+<head>
+
+
+	<section class="hero">
+
+    <div class="hero-content">
+    
+       <h1 class="hero-title">
+            Travel to New Zealand!
+       </h1>
+         
+       <h2 class="hero-subtitle">
+            
+       </h2>
+         
+       
+    <div class="dropdown">
+  <button class="dropbtn">Menu</button>
+  <div class="dropdown-content">
+    <a href="index.html">Link 1</a>
+    <a href="domains.html">Link 2</a>
+  </div>
+</div>
+<head>
+	<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif:ital@1&display=swap" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=PT+Serif&display=swap" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Cabin&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="style.css">
+    </div>
+
+</section>
+
+	
+</head>
+<body>
+<h1 style="text-align: center;" > About New Zealand</h1>
+<p style="text-align: center;"> New Zealand is a beautiful island country located in the Pacific Ocean south of Austrailia. It is very mountainous, has many hills, volcanoes, caves, lakes, valleys, and beaches. It is a perfect place to visit for vacation because its landscape has so much diversity. It is known to have the clearest waters in the world, the most ethically diverse population in the world in Auckland(a big city in New Zealand), has all types of weather that changes rapidly throughout the day, and is also known to not have any snakes in the country.</p>
+<h3 > Some Facts About New Zealand</h3>
+<ul>
+	<li>It is known to have the clearest waters in the world</li>
+	<li>the most ethically diverse population in the world in Auckland(a big city in New Zealand)</li>
+	<li>has all types of weather that changes rapidly throughout the day</li>
+	<li>and is also known to not have any snakes in the country</li>
+</ul >
+
+
+
+	</body>
+	<footer>
+  <p>Author: Roma Vipparthy<br>
+  <a href="mailto:Romavipparthy@gmail.com">Romavipparthy@gmail.com</a></p>
+</footer>
+	</html>
