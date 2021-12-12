@@ -1,7 +1,5 @@
 <html>
-<link rel="stylesheet" href="style.css">
-<link rel="preconnect" href="https://fonts.gstatic.com">
-<link href="https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap" rel="stylesheet">
+
 
 <head>
 
@@ -46,7 +44,7 @@
 <p style="text-align: center;"> New Zealand is a beautiful island country located in the Pacific Ocean south of Austrailia. It is very mountainous, has many hills, volcanoes, caves, lakes, valleys, and beaches. It is a perfect place to visit for vacation because its landscape has so much diversity. It is known to have the clearest waters in the world, the most ethically diverse population in the world in Auckland(a big city in New Zealand), has all types of weather that changes rapidly throughout the day, and is also known to not have any snakes in the country.</p>
 <h3 > Some Facts About New Zealand</h3>
 <ul>
-	<li>It is known to have the clearest waters in the world</li>
+	<li>It is known to have the clearest waters in the world</li> 
 	<li>the most ethically diverse population in the world in Auckland(a big city in New Zealand)</li>
 	<li>has all types of weather that changes rapidly throughout the day</li>
 	<li>and is also known to not have any snakes in the country</li>
